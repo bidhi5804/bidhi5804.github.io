@@ -1,20 +1,20 @@
-h1 {
-  font-family: arial;
-  color: dimgray;
+#container {
+    text-align: center;
 }
-
-body {
-  font-family: arial;
-  margin: 30px;
-  background-color: #a5ecfa;
-}
-
 canvas {
-  height: 200px;
-  border: 1px solid lightgray;
-  align-content: center;
+    background-color: #f3f5f0;
+    box-shadow: 0 0 20px #888888;
 }
-
-input {
-  font-size: 14pt;
+a{
+	text-decoration: none;
+	color: white;
+}
+button{
+	background-color: #03fcb6;
+	border-radius: 5%;
+}
+h1{
+	color: red;
+	text-align: center;
+	font-family: "Lucida Console", Courier, monospace;
 }
